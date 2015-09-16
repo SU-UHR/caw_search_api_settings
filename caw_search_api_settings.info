@@ -3,6 +3,7 @@ description = Cardinal At Work Search API Settings and configuraiton
 core = 7.x
 package = Cardinal at Work
 version = 7.x-1.0
+project status url = https://github.com/SU-UHR/caw_search_api_settings
 project = caw_search_api_settings
 dependencies[] = bean
 dependencies[] = block_class
